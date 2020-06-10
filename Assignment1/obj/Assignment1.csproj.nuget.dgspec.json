@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Projects/Assignment1/Assignment1/Assignment1.csproj": {}
+    "/Users/student/Desktop/Git/Rectangle/Assignment1/Assignment1.csproj": {}
   },
   "projects": {
-    "/Users/student/Projects/Assignment1/Assignment1/Assignment1.csproj": {
+    "/Users/student/Desktop/Git/Rectangle/Assignment1/Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Projects/Assignment1/Assignment1/Assignment1.csproj",
+        "projectUniqueName": "/Users/student/Desktop/Git/Rectangle/Assignment1/Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "/Users/student/Projects/Assignment1/Assignment1/Assignment1.csproj",
+        "projectPath": "/Users/student/Desktop/Git/Rectangle/Assignment1/Assignment1.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Projects/Assignment1/Assignment1/obj/",
+        "outputPath": "/Users/student/Desktop/Git/Rectangle/Assignment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/student/.config/NuGet/NuGet.Config"
