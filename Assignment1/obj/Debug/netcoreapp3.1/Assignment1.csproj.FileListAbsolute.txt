@@ -1,0 +1,10 @@
+/Users/student/Desktop/Git/Rectangle/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.deps.json
+/Users/student/Desktop/Git/Rectangle/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.json
+/Users/student/Desktop/Git/Rectangle/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.dev.json
+/Users/student/Desktop/Git/Rectangle/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.dll
+/Users/student/Desktop/Git/Rectangle/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.pdb
+/Users/student/Desktop/Git/Rectangle/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.csprojAssemblyReference.cache
+/Users/student/Desktop/Git/Rectangle/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfoInputs.cache
+/Users/student/Desktop/Git/Rectangle/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfo.cs
+/Users/student/Desktop/Git/Rectangle/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.dll
+/Users/student/Desktop/Git/Rectangle/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.pdb
